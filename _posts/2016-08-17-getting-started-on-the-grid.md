@@ -2,17 +2,22 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-17T22:32:19.017Z'
-dateModified: '2016-08-17T22:32:15.693Z'
+description: BLASTER'S MUSIC
+datePublished: '2016-08-17T23:26:28.798Z'
+dateModified: '2016-08-17T23:26:20.511Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-08-17-getting-started-on-the-grid.md
 via: {}
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  url: ''
 starred: false
 _context: 'http://schema.org'
 _type: Article
