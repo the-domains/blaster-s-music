@@ -1,0 +1,28 @@
+name: Blaster's Music
+favicon: null
+layout_spectrum: 0.13277421914972365
+typography_spectrum: 0.9809951649513096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.24202916375361383
+  lightness: 0.8842340547125787
+  saturation: 0.7617440049070865
+  rhythmicContrast: 0.30744461878202856
+purpose: []
