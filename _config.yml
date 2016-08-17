@@ -1,7 +1,7 @@
 name: Blaster's Music
 favicon: null
-layout_spectrum: 0.91706
-typography_spectrum: 0.60943
+layout_spectrum: 0.19262
+typography_spectrum: 0.86005
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#5178b1'
     - '#050000'
   brandStrength: 0.125
-  lightness: 0.8842340547125787
-  saturation: 0.7617440049070865
+  lightness: 0.1875
+  saturation: 0.1875
   rhythmicContrast: 0.75
 purpose: []
