@@ -13,24 +13,24 @@ collections:
       number: 10
 color:
   saturation: 0.3744681
-  brandStrength: 0.125
+  brandStrength: 0.7914894
   lightness: 0.1875
   brandColors:
-    - '#ffffff'
-    - '#a9beed'
-    - '#294374'
-    - '#5178b1'
-    - '#050000'
+    - '#010101'
+    - '#FFFFFF'
+    - '#00FFF9'
+    - '#FF0101'
+    - '#7A7A7A'
   rhythmicContrast: 0.7787234
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Blaster's Music
 opengraph:
   image: null
